@@ -63,13 +63,14 @@ A list of resources and communities for a developer willing to learn and build t
 - [BIP Bounties](https://bipbounty.org/)
 - [NYDIG Bitcoin Bounties](https://nydig.com/bounties)
 - [Bitcoin Bounties](https://bitcoinbounties.org/)
+- [Alby] (https://github.com/getAlby/lightning-browser-extension/wiki/Bounties)
+- [HRF Bounties](https://hrfbounties.org/)
 
 ## Bitcoin/Lightning Open-source Protocol Development - Funding/Employment
 
 - [Brink](https://brink.dev/)
 - [Chaincode](https://chaincode.com/)
 - [Lightning Labs](https://lightning.engineering/)
-- [Vinteum](https://vinteum.org/)
 - [Blockstream](https://blockstream.com/)
 - [Acinq](https://acinq.co/)
 - [Spiral](https://spiral.xyz/)
